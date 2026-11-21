@@ -40,7 +40,7 @@ function get_tax_due(float $price, int $quantity, int $tax_rate = 0): float
     <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
-    <h1>Jaez Candy Shop</h1>
+    <h1>The Jaez Candy Shop co.</h1>
     <h2>Stock Control</h2>
     <table>
       <tr>
