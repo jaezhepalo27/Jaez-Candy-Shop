@@ -1,3 +1,5 @@
+// Lansang, Charle Jaezhe D.
+// 6DWEB - WD201 -2274
 <?php
 declare(strict_types=1);
 
